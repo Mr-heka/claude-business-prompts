@@ -4,7 +4,7 @@ You are installing this kit on the user's machine. Paths that don't start with `
 
 ## 1. Install the skills
 
-If the user named one skill (admin-jobs, customer-messages, review-replies, talk-once, follow-ups, send-check or christmas-jobs), install only that one. Otherwise install all seven.
+If the user named one skill (admin-jobs, customer-messages, review-replies, talk-once, follow-ups, send-check, christmas-jobs or claude-features), install only that one. Otherwise install all eight.
 
 Copy each chosen folder from `skills/` to `~/.claude/skills/<name>/`, replacing an older copy of the same skill if one is there. Create `~/.claude/skills/` if it's missing.
 
