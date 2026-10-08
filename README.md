@@ -8,6 +8,9 @@ Copy-paste prompts for the jobs a small business does every week, packed as skil
 | [review-replies](skills/review-replies/SKILL.md) | A short, calm reply to a bad review, a thank-you for a good one |
 | [customer-messages](skills/customer-messages/SKILL.md) | 10 customer messages in your own voice: quote follow-up, booking confirmation, reminder, running late, thank-you, payment nudge, review request, price rise, win-back, turning down a job |
 | [talk-once](skills/talk-once/SKILL.md) | Talk through a job once, get invoice notes, a customer email, a job sheet and a reminder text |
+| [follow-ups](skills/follow-ups/SKILL.md) | 12 follow-ups that fix any Claude answer, each with when to use it |
+| [send-check](skills/send-check/SKILL.md) | The SEND check before anything Claude wrote goes out: names and numbers, every promise, nothing private, sounds like you |
+| [christmas-jobs](skills/christmas-jobs/SKILL.md) | 12 Christmas jobs from one set of closed dates: trading hours, roster, out-of-office, signs, posts and thank-yous |
 
 ## Using Claude in the browser or the app?
 
@@ -15,7 +18,7 @@ You don't need to install anything. Open the skill file, copy the prompt you wan
 
 ## Using Claude Code or Codex?
 
-Copy the prompt in [SETUP-PROMPT.md](SETUP-PROMPT.md) into a new session. It installs all four skills. Then just ask for the job, for example "draft a quote from these notes".
+Copy the prompt in [SETUP-PROMPT.md](SETUP-PROMPT.md) into a new session. It installs all seven skills. Then just ask for the job, for example "draft a quote from these notes".
 
 ## Before anything goes out
 
