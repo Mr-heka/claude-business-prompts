@@ -4,7 +4,7 @@ You are installing this kit on the user's machine. Paths that don't start with `
 
 ## 1. Install the skills
 
-If the user named one skill (admin-jobs, review-replies or talk-once), install only that one. Otherwise install all three.
+If the user named one skill (admin-jobs, customer-messages, review-replies or talk-once), install only that one. Otherwise install all four.
 
 Copy each chosen folder from `skills/` to `~/.claude/skills/<name>/`, replacing an older copy of the same skill if one is there. Create `~/.claude/skills/` if it's missing.
 
@@ -18,7 +18,7 @@ Each installed `SKILL.md` exists and matches this repo's copy (and the Codex cop
 
 ## 3. Report
 
-Tell the user, briefly, which skills are installed and where, and give one example ask for each, such as "draft a quote from these notes", "reply to this review" or "turn this memo into my four jobs".
+Tell the user, briefly, which skills are installed and where, and give one example ask for each, such as "draft a quote from these notes", "reply to this review", "turn this memo into my four jobs" or "draft the reminder text for tomorrow's job".
 
 ## Removing
 
