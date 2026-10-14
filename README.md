@@ -14,6 +14,8 @@ Copy-paste prompts for the jobs a small business does every week, packed as skil
 | [claude-features](skills/claude-features/SKILL.md) | 10 Claude features worth switching on, one at a time, matched to your plan: Projects, Connectors, Research, File creation, Skills, Artifacts, Voice mode, Claude in Chrome, Cowork, Scheduled tasks |
 | [ai-cost-check](skills/ai-cost-check/SKILL.md) | Four questions before you pay for any AI tool, then a Claude Project for quoting with your price list, terms, past quotes and the way you talk to customers |
 | [claude-plan-picker](skills/claude-plan-picker/SKILL.md) | Picks the smallest Claude plan (Free, Pro, Max, Team or Enterprise) that covers this week's work. No prices |
+| [quote-panel](skills/quote-panel/SKILL.md) | Make AI reject your quote before your customer does: it reads it as the owner who signs off, the person checking the numbers and your competitor, then lists what to fix first |
+| [ai-course-plan](skills/ai-course-plan/SKILL.md) | Take Anthropic's free AI Fluency for Small Businesses course with one real job open the whole way, then teach one person in your team |
 
 ## Using Claude in the browser or the app?
 
@@ -21,7 +23,7 @@ You don't need to install anything. Open the skill file, copy the prompt you wan
 
 ## Using Claude Code or Codex?
 
-Copy the prompt in [SETUP-PROMPT.md](SETUP-PROMPT.md) into a new session. It installs all ten skills. Then just ask for the job, for example "draft a quote from these notes".
+Copy the prompt in [SETUP-PROMPT.md](SETUP-PROMPT.md) into a new session. It installs all twelve skills. Then just ask for the job, for example "draft a quote from these notes".
 
 ## Before anything goes out
 
