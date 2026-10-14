@@ -16,6 +16,9 @@ Copy-paste prompts for the jobs a small business does every week, packed as skil
 | [claude-plan-picker](skills/claude-plan-picker/SKILL.md) | Picks the smallest Claude plan (Free, Pro, Max, Team or Enterprise) that covers this week's work. No prices |
 | [quote-panel](skills/quote-panel/SKILL.md) | Make AI reject your quote before your customer does: it reads it as the owner who signs off, the person checking the numbers and your competitor, then lists what to fix first |
 | [ai-course-plan](skills/ai-course-plan/SKILL.md) | Take Anthropic's free AI Fluency for Small Businesses course with one real job open the whole way, then teach one person in your team |
+| [variation-note](skills/variation-note/SKILL.md) | Talk for thirty seconds about an extra on a job and get a written variation to sign before the work starts: what changed, why, the price with GST and a sign line |
+| [tender-checklist](skills/tender-checklist/SKILL.md) | Reads a tender pack next to your past submissions: one checklist of every requirement and deadline, draft answers from your own work, and a list of what's missing |
+| [ai-policy-page](skills/ai-policy-page/SKILL.md) | Writes a one-page AI policy and an AI register under the Australian Government's six essential practices, with links to the official templates |
 
 ## Using Claude in the browser or the app?
 
@@ -23,7 +26,7 @@ You don't need to install anything. Open the skill file, copy the prompt you wan
 
 ## Using Claude Code or Codex?
 
-Copy the prompt in [SETUP-PROMPT.md](SETUP-PROMPT.md) into a new session. It installs all twelve skills. Then just ask for the job, for example "draft a quote from these notes".
+Copy the prompt in [SETUP-PROMPT.md](SETUP-PROMPT.md) into a new session. It installs all fifteen skills. Then just ask for the job, for example "draft a quote from these notes".
 
 ## Before anything goes out
 
