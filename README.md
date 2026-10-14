@@ -12,6 +12,8 @@ Copy-paste prompts for the jobs a small business does every week, packed as skil
 | [send-check](skills/send-check/SKILL.md) | The SEND check before anything Claude wrote goes out: names and numbers, every promise, nothing private, sounds like you |
 | [christmas-jobs](skills/christmas-jobs/SKILL.md) | 12 Christmas jobs from one set of closed dates: trading hours, roster, out-of-office, signs, posts and thank-yous |
 | [claude-features](skills/claude-features/SKILL.md) | 10 Claude features worth switching on, one at a time, matched to your plan: Projects, Connectors, Research, File creation, Skills, Artifacts, Voice mode, Claude in Chrome, Cowork, Scheduled tasks |
+| [ai-cost-check](skills/ai-cost-check/SKILL.md) | Four questions before you pay for any AI tool, then a Claude Project for quoting with your price list, terms, past quotes and the way you talk to customers |
+| [claude-plan-picker](skills/claude-plan-picker/SKILL.md) | Picks the smallest Claude plan (Free, Pro, Max, Team or Enterprise) that covers this week's work. No prices |
 
 ## Using Claude in the browser or the app?
 
@@ -19,7 +21,7 @@ You don't need to install anything. Open the skill file, copy the prompt you wan
 
 ## Using Claude Code or Codex?
 
-Copy the prompt in [SETUP-PROMPT.md](SETUP-PROMPT.md) into a new session. It installs all eight skills. Then just ask for the job, for example "draft a quote from these notes".
+Copy the prompt in [SETUP-PROMPT.md](SETUP-PROMPT.md) into a new session. It installs all ten skills. Then just ask for the job, for example "draft a quote from these notes".
 
 ## Before anything goes out
 
